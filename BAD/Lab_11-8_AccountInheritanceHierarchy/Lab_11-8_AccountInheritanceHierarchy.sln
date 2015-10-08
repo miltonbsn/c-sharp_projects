@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_11-8_AccountInheritanceHierarchy", "Lab_11-8_AccountInheritanceHierarchy\Lab_11-8_AccountInheritanceHierarchy.csproj", "{CFB72A85-38C3-4651-AEF6-84760CE483FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB72A85-38C3-4651-AEF6-84760CE483FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB72A85-38C3-4651-AEF6-84760CE483FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB72A85-38C3-4651-AEF6-84760CE483FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB72A85-38C3-4651-AEF6-84760CE483FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
